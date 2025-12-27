@@ -15,6 +15,17 @@ AI-Powered Dev  ░░░░░░░░░░░░░░░░░░██  (2
 
 > *"AI made me 100x faster. So why am I 100x busier?"* 🤔
 
+#### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MUSE-CODE-SPACE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUSE-CODE-SPACE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MUSE-CODE-SPACE&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
 #### 🚀 What I'm Building
 - **[Vibe Coding MCP](https://github.com/MUSE-CODE-SPACE/vibe-coding-mcp)** - AI coding session documentation (15 tools)
 - **[Content Genie MCP](https://github.com/MUSE-CODE-SPACE/content-genie-mcp)** - Trend analysis for creators (17 tools)
