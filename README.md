@@ -29,7 +29,6 @@ AI-Powered Dev  ░░░░░░░░░░░░░░░░░░██  (2
 #### 🚀 What I'm Building
 - **[Vibe Coding MCP](https://github.com/MUSE-CODE-SPACE/vibe-coding-mcp)** - AI coding session documentation (15 tools)
 - **[Content Genie MCP](https://github.com/MUSE-CODE-SPACE/content-genie-mcp)** - Trend analysis for creators (17 tools)
-- **iOS/macOS Apps** - Hider, LoopHabit, HikeTracker, QuickRegex, dSYMate
 
 #### 🛠 Tech Stack
 `TypeScript` `Swift` `Python` `MCP` `Claude Code` `iOS` `macOS`
@@ -56,5 +55,4 @@ AI 파워 개발    ░░░░░░░░░░░░░░░░░░██
 #### 🎯 요즘 만드는 것들
 - **Vibe Coding MCP** - 코딩 세션 자동 문서화 (15개 도구)
 - **Content Genie MCP** - 크리에이터용 트렌드 분석 (17개 도구)
-- **iOS/macOS 앱들** - Hider, LoopHabit, HikeTracker, QuickRegex, dSYMate
 
