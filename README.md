@@ -58,8 +58,3 @@ AI 파워 개발    ░░░░░░░░░░░░░░░░░░██
 - **Content Genie MCP** - 크리에이터용 트렌드 분석 (17개 도구)
 - **iOS/macOS 앱들** - Hider, LoopHabit, HikeTracker, QuickRegex, dSYMate
 
-#### 🏠 [Resonance Space](https://resonance-space.net)
-> 기술로 새로운 가능성을 열어가는 공간
-
-#### 📫 연락처
-- Email: muse@resonance-space.net
